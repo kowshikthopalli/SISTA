@@ -20,6 +20,6 @@ If you use this code or ideas from our paper, please cite our paper:
 ```
 
 ## Acknowledgments
-This code borrows from [StyleGAN2 by rosalinity](https://github.com/rosinality/stylegan2-pytorch), [e4e](https://github.com/omertov/encoder4editing). Some snippets of colab code from [StyleGAN-NADA](https://github.com/rinongal/StyleGAN-nada) [NRC](https://github.com/Albert0147/NRC_SFDA), [MEMO](https://github.com/zhangmarvin/memo/) and [RandConv](https://github.com/wildphoton/RandConv). 
+This code borrows from [StyleGAN2 by rosalinity](https://github.com/rosinality/stylegan2-pytorch), [e4e](https://github.com/omertov/encoder4editing) [StyleGAN-NADA](https://github.com/rinongal/StyleGAN-nada) [NRC](https://github.com/Albert0147/NRC_SFDA), [MEMO](https://github.com/zhangmarvin/memo/) and [RandConv](https://github.com/wildphoton/RandConv). 
 
 We thank the authors of the respective works for publicly sharing their code.
