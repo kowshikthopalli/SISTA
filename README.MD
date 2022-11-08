@@ -1,7 +1,7 @@
 # Single-Domain Adaptation via Target-Aware Generative Augmentations
 [![arXiv](https://img.shields.io/badge/arXiv-2210.16692-b31b1b.svg)](https://arxiv.org/abs/2210.16692)
 
-This is the PyTorch implementation of [Single-SISTA_DA Domain Adaptation via Target-Aware Generative Augmentations](https://arxiv.org/pdf/2210.16692.pdf).
+This is the PyTorch implementation of [Single-Domain Adaptation via Target-Aware Generative Augmentations](https://arxiv.org/pdf/2210.16692.pdf).
 
 ## Dataset
 [CelebA-HQ](http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebAMask_HQ.html) dataset was utilized for all our experiments. 
