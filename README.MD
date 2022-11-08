@@ -14,7 +14,7 @@ The checkpoints for the styleGANs can be downloaded from [here]()
 
 ## Folder Structure
 ```bash
-├── Classifier
+├── SISTA_DA
 │   ├── celeba_dataloader.py
 │   ├── celebahq_dataloader.py
 │   ├── data_list.py
