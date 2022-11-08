@@ -60,13 +60,18 @@ The jupyter notebook [data_augmentation.ipynb](https://github.com/kowshikthopall
 To train the source model on a desired attribute
 
 `python image_source.py --attribute 'Smiling'`
-### Domain adaptation on synthetic target domain images
-`python SHOT/image_NRC_target.py --variant 'interp_concat' --attribute 'Smiling' --t 1 `
+
+
 ``
 --variant
+
 --attribute 
+
 --t
 ``
+### Domain adaptation on synthetic target domain images
+`python SHOT/image_NRC_target.py --variant 'interp_concat' --attribute 'Smiling' --t 1 `
+
 This command adapts a source trained model to target domain for the attribute 'smiling' using 'SHOT' protocol. 
 
 ### Domain adaptation on images generated using sampling strategies
