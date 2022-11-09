@@ -7,6 +7,14 @@ This is the PyTorch implementation of [Single-Domain Adaptation via Target-Aware
 [CelebA-HQ](http://mmlab.ie.cuhk.edu.hk/projects/CelebA/CelebAMask_HQ.html) dataset was utilized for all our experiments. 
 
 ## Requirements
+We tested our code with the following package versions
+
+```bash
+pytorch 1.10.2
+cudatoolkit 10.2.89
+ninja 1.10.2.3
+
+```
 
 ## Checkpoints
 
