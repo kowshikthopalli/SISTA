@@ -72,17 +72,10 @@ To train the source model on a desired attribute
 `python image_source.py --attribute 'Smiling'`
 
 
-``
---variant
-
---attribute 
-
---t
-``
 ### Domain adaptation on synthetic target domain images
 `python SISTA_DA/image_NRC_target.py --variant 'interp_concat' --attribute 'Smiling' --t 1 `
 
-This command adapts a source trained model to target domain for the attribute 'smiling' using 'SISTA_DA' protocol. 
+This command adapts a source trained model to target domain A (controlled by the `--t` flag) for the attribute 'Smiling' using 'SISTA_DA' protocol. 
 
 ### Domain adaptation on images generated using sampling strategies
 
